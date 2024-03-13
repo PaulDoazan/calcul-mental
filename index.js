@@ -21,7 +21,7 @@ function onBtnClick(e) {
         resultDiv.textContent = "BRAVO !"
         refreshDiv.style.display = "block"
     } else {
-        resultDiv.textContent = "T'es vraiment mauvais !"
+        resultDiv.textContent = "Raté, dommage !"
         refreshDiv.style.display = "none"
     }
 }
